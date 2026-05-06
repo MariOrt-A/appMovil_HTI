@@ -1,3 +1,7 @@
+#VIDEO DE FUNCIONAMIENTO DEL SOFTWARE
+https://drive.google.com/file/d/1tELb5sDIiQFgVzY_GkI1L9bMNoaAUBWf/view?usp=sharing
+
+
 # 💰 Calculadora de Presupuestos para Desarrollo de Software
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
